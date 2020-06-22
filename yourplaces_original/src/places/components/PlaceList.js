@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Card from '../../shared/components/UiElements/Card';
+
 import PlaceItem from './PlaceItem';
 import './PlaceList.css';
 
